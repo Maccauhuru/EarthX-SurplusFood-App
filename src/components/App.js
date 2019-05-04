@@ -7,7 +7,6 @@ const App = () => {
     return (
         <div className="App">
             <Nav />
-            <h1>Sell Your Surplus Food</h1>
             <AddSurplus />
         </div>
     );
