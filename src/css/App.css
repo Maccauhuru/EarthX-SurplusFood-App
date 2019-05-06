@@ -1,15 +1,10 @@
 /* ADD SURPLUS PAGE CSS START */
-.radioLeft input {
-    text-align: left;
-    display: inline;
-    margin-left: 1.5rem;
-}
 
 fieldset legend {
     margin-left: 2.25rem;
     width: auto;
     font-weight: 600;
-    color: black
+    color: black;
 }
 
 .custom-file-label {
