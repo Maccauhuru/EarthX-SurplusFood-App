@@ -1,14 +1,15 @@
 import React from "react";
 import "../css/App.css";
 import Nav from "./Nav";
-import AddSurplus from "./AddSurplus"
+import Account from "./Account"
+//import AddSurplus from "./AddSurplus"
 // import Login from "./Login"
 
 const App = () => {
     return (
         <div className="App">
             <Nav />
-            <AddSurplus />
+            <Account />
         </div>
     );
 };

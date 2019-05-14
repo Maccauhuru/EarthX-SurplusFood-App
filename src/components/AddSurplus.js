@@ -2,7 +2,7 @@ import React from 'react'
 
 function AddSurplus() {
     return (
-        <section className="bg-light mb-5 pb-4">
+        <section className="bg-light mb-5 pb-4 pt-4">
             <fieldset className="border border-dark ml-2 mr-5 pb-5"><legend> Add Surplus Details </legend>
                 <form className="ml-3">
                     {/* Radio input buttons */}
